@@ -1,1 +1,2 @@
-# janihttps://github.com/mateen-tech/jani.git
+git@github.com:mateen-tech/jani.git
+
